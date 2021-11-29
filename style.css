@@ -1,0 +1,11 @@
+body{
+    padding-top:48px;                     /*上の余白*/
+    font-family:"Courier New",monospace;  /*等幅フォント*/
+    text-align:center;                    /*中央揃え*/
+
+}
+
+#target{
+  font-size: 48px;  
+  letter-spacing: 0.1em;   /*文字間調整*/
+}
